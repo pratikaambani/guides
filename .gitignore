@@ -37,3 +37,6 @@ node_modules
 public/
 .cache/
 
+#unrequired intelliJ classes
+bin/
+.idea/
