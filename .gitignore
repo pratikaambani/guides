@@ -37,3 +37,8 @@ node_modules
 public/
 .cache/
 
+#unrequired compiled classes
+*.iml
+.classpath
+.project
+.settings
