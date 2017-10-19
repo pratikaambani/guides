@@ -37,3 +37,6 @@ node_modules
 public/
 .cache/
 
+#compiled classes
+target/
+target/*
