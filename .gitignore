@@ -37,3 +37,6 @@ node_modules
 public/
 .cache/
 
+#unrequired compiled classes
+target-eclipse/
+target-eclipse/*
