@@ -36,3 +36,7 @@ node_modules
 .sass-cache/
 public/
 .cache/
+
+#compiled classes
+target/
+target/*
